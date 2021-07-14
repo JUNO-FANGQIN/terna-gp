@@ -3,5 +3,5 @@
 module.exports = comps;
 
 function comps() {
-    return 'comps'
+    return 'hello comps'
 }
