@@ -2,6 +2,6 @@
 
 const utils = require('..');
 
-describe('utils', () => {
+describe('@monorepo-demo/utils', () => {
     it('needs tests');
 });

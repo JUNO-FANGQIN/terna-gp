@@ -2,6 +2,6 @@
 
 const comps = require('..');
 
-describe('comps', () => {
+describe('@monorepo-demo/comps', () => {
     it('needs tests');
 });
